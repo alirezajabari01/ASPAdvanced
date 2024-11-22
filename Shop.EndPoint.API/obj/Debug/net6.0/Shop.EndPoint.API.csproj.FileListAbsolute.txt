@@ -1,0 +1,1320 @@
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.Development.json
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.json
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.exe
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.deps.json
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.runtimeconfig.json
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cache
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\scopedcss\bundle\Shop.EndPoint.API.styles.css
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\refint\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.genruntimeconfig.cache
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\ref\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.pdb
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Humanizer.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.Development.json
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.json
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.exe
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.deps.json
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.runtimeconfig.json
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Humanizer.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.pdb
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cache
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\scopedcss\bundle\Shop.EndPoint.API.styles.css
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\refint\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.genruntimeconfig.cache
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\ref\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.Development.json
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.json
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.exe
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.deps.json
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.runtimeconfig.json
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Humanizer.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.pdb
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cache
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\scopedcss\bundle\Shop.EndPoint.API.styles.css
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\refint\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.genruntimeconfig.cache
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\ref\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.Development.json
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.json
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.exe
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.deps.json
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.runtimeconfig.json
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Humanizer.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.pdb
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cache
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\scopedcss\bundle\Shop.EndPoint.API.styles.css
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\refint\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.genruntimeconfig.cache
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\ref\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.Resource.resources
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.GenerateResource.cache
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.Development.json
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.json
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.exe
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.deps.json
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.runtimeconfig.json
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Humanizer.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.pdb
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.Resource.resources
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.GenerateResource.cache
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cache
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\scopedcss\bundle\Shop.EndPoint.API.styles.css
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\refint\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.genruntimeconfig.cache
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\ref\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.Development.json
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.json
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.exe
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.deps.json
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.runtimeconfig.json
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Humanizer.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.pdb
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.Resource.resources
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.GenerateResource.cache
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cache
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\scopedcss\bundle\Shop.EndPoint.API.styles.css
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\refint\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.genruntimeconfig.cache
+C:\BootcampGenius\Web2\Web2S07\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\ref\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.Development.json
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.json
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.exe
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.deps.json
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.runtimeconfig.json
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Humanizer.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.pdb
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.Resource.resources
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.GenerateResource.cache
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cache
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\scopedcss\bundle\Shop.EndPoint.API.styles.css
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\refint\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.genruntimeconfig.cache
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\ref\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.Development.json
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.json
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.exe
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.deps.json
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.runtimeconfig.json
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Humanizer.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.pdb
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.Resource.resources
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.GenerateResource.cache
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cache
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\scopedcss\bundle\Shop.EndPoint.API.styles.css
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\refint\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.genruntimeconfig.cache
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\ref\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.Development.json
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.json
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.exe
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.deps.json
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.runtimeconfig.json
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Humanizer.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.pdb
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.Resource.resources
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.GenerateResource.cache
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cache
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\scopedcss\bundle\Shop.EndPoint.API.styles.css
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\refint\Shop.EndPoint.API.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.genruntimeconfig.cache
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\ref\Shop.EndPoint.API.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\refint\Shop.EndPoint.API.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.Development.json
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.json
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.exe
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.deps.json
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.runtimeconfig.json
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Humanizer.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.pdb
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.pdb
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.AssemblyReference.cache
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.Resource.resources
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.GenerateResource.cache
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfoInputs.cache
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfo.cs
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CoreCompileInputs.cache
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cs
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cache
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets\msbuild.Shop.EndPoint.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Shop.EndPoint.API.props
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Shop.EndPoint.API.props
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Shop.EndPoint.API.props
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\scopedcss\bundle\Shop.EndPoint.API.styles.css
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CopyComplete
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.genruntimeconfig.cache
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\ref\Shop.EndPoint.API.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.Development.json
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.json
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.exe
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.deps.json
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.runtimeconfig.json
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Humanizer.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.pdb
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.pdb
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.AssemblyReference.cache
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.Resource.resources
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.GenerateResource.cache
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfoInputs.cache
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfo.cs
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CoreCompileInputs.cache
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cs
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cache
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\scopedcss\bundle\Shop.EndPoint.API.styles.css
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CopyComplete
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\refint\Shop.EndPoint.API.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.genruntimeconfig.cache
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\ref\Shop.EndPoint.API.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Autofac.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Autofac.Extras.DynamicProxy.dll
+C:\ASP Advance\S02\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Castle.Core.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.Development.json
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.json
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.exe
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.deps.json
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.runtimeconfig.json
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Autofac.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Autofac.Extras.DynamicProxy.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Castle.Core.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Humanizer.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.pdb
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.pdb
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.AssemblyReference.cache
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.Resource.resources
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.GenerateResource.cache
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfoInputs.cache
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfo.cs
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CoreCompileInputs.cache
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cs
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cache
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\scopedcss\bundle\Shop.EndPoint.API.styles.css
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CopyComplete
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\refint\Shop.EndPoint.API.dll
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.genruntimeconfig.cache
+C:\ASP Advance\S03\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\ref\Shop.EndPoint.API.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.Development.json
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.json
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.exe
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.deps.json
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.runtimeconfig.json
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Autofac.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Autofac.Extras.DynamicProxy.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Castle.Core.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Humanizer.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.pdb
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.pdb
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.AssemblyReference.cache
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.Resource.resources
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.GenerateResource.cache
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfoInputs.cache
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfo.cs
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CoreCompileInputs.cache
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cs
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cache
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\scopedcss\bundle\Shop.EndPoint.API.styles.css
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CopyComplete
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\refint\Shop.EndPoint.API.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.genruntimeconfig.cache
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\ref\Shop.EndPoint.API.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\ASP Advance\S04\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.Development.json
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.json
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.exe
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.deps.json
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.runtimeconfig.json
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Autofac.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Autofac.Extras.DynamicProxy.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Castle.Core.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Humanizer.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.pdb
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.pdb
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.AssemblyReference.cache
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.Resource.resources
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.GenerateResource.cache
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfoInputs.cache
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfo.cs
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CoreCompileInputs.cache
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cs
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cache
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\scopedcss\bundle\Shop.EndPoint.API.styles.css
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CopyComplete
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\refint\Shop.EndPoint.API.dll
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.genruntimeconfig.cache
+C:\ASP Advance\S05\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\ref\Shop.EndPoint.API.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.Development.json
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\appsettings.json
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.exe
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.deps.json
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.runtimeconfig.json
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Autofac.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Autofac.Extras.DynamicProxy.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Castle.Core.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Humanizer.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Application.pdb
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.Model.pdb
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\bin\Debug\net6.0\Shop.InfraStructure.pdb
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.AssemblyReference.cache
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.Resource.resources
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.GenerateResource.cache
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfoInputs.cache
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.AssemblyInfo.cs
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CoreCompileInputs.cache
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cs
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.MvcApplicationPartsAssemblyInfo.cache
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\scopedcss\bundle\Shop.EndPoint.API.styles.css
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.csproj.CopyComplete
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\refint\Shop.EndPoint.API.dll
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.pdb
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\Shop.EndPoint.API.genruntimeconfig.cache
+C:\ASP Advance\S09\ShopSln\Shop.EndPoint.API\obj\Debug\net6.0\ref\Shop.EndPoint.API.dll

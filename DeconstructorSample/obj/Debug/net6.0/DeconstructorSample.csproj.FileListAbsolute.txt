@@ -1,0 +1,15 @@
+C:\ASP Advance\S05\ShopSln\DeconstructorSample\bin\Debug\net6.0\DeconstructorSample.exe
+C:\ASP Advance\S05\ShopSln\DeconstructorSample\bin\Debug\net6.0\DeconstructorSample.deps.json
+C:\ASP Advance\S05\ShopSln\DeconstructorSample\bin\Debug\net6.0\DeconstructorSample.runtimeconfig.json
+C:\ASP Advance\S05\ShopSln\DeconstructorSample\bin\Debug\net6.0\DeconstructorSample.dll
+C:\ASP Advance\S05\ShopSln\DeconstructorSample\bin\Debug\net6.0\DeconstructorSample.pdb
+C:\ASP Advance\S05\ShopSln\DeconstructorSample\obj\Debug\net6.0\DeconstructorSample.csproj.AssemblyReference.cache
+C:\ASP Advance\S05\ShopSln\DeconstructorSample\obj\Debug\net6.0\DeconstructorSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP Advance\S05\ShopSln\DeconstructorSample\obj\Debug\net6.0\DeconstructorSample.AssemblyInfoInputs.cache
+C:\ASP Advance\S05\ShopSln\DeconstructorSample\obj\Debug\net6.0\DeconstructorSample.AssemblyInfo.cs
+C:\ASP Advance\S05\ShopSln\DeconstructorSample\obj\Debug\net6.0\DeconstructorSample.csproj.CoreCompileInputs.cache
+C:\ASP Advance\S05\ShopSln\DeconstructorSample\obj\Debug\net6.0\DeconstructorSample.dll
+C:\ASP Advance\S05\ShopSln\DeconstructorSample\obj\Debug\net6.0\refint\DeconstructorSample.dll
+C:\ASP Advance\S05\ShopSln\DeconstructorSample\obj\Debug\net6.0\DeconstructorSample.pdb
+C:\ASP Advance\S05\ShopSln\DeconstructorSample\obj\Debug\net6.0\DeconstructorSample.genruntimeconfig.cache
+C:\ASP Advance\S05\ShopSln\DeconstructorSample\obj\Debug\net6.0\ref\DeconstructorSample.dll

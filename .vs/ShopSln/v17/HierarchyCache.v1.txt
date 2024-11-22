@@ -1,0 +1,365 @@
+﻿++Solution 'ShopSln' ‎(7 of 7 projects)
+i:{00000000-0000-0000-0000-000000000000}:ShopSln.sln
+++Shop.EndPoint.API
+i:{00000000-0000-0000-0000-000000000000}:Shop.EndPoint.API
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:c:\asp advance\s02\shopsln\shop.endpoint.api\shop.endpoint.api.csproj
+++Connected Services 
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:>618
+++Dependencies
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:>617
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:>149
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:>307
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:>551
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:>148
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:>357
+i:{d6896178-4e5a-4a69-b86e-3835f59b00fc}:>515
+++Properties
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\properties\
+++Controllers
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\controllers\
+++Exceptions
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\exceptions\
+++Filters
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\filters\
+++Middlewares
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\middlewares\
+++Securities
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\securities\
+++appsettings.json
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\appsettings.json
+++GenericDemo.cs
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\genericdemo.cs
+++NotNullDemo.cs
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\notnulldemo.cs
+++Program.cs
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\program.cs
+i:{d6896178-4e5a-4a69-b86e-3835f59b00fc}:c:\asp advance\s02\shopsln\buildersample\program.cs
+++Resource.resx
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\resource.resx
+++No service dependencies discovered
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:>619
+++Analyzers
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:analyzers
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:analyzers
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:analyzers
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:analyzers
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:analyzers
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:analyzers
+i:{d6896178-4e5a-4a69-b86e-3835f59b00fc}:analyzers
+++Frameworks
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:frameworks
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:frameworks
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:frameworks
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:frameworks
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:frameworks
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:frameworks
+i:{d6896178-4e5a-4a69-b86e-3835f59b00fc}:frameworks
+++Packages
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:packages
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:packages
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:packages
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:packages
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:packages
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:packages
+++Projects
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:projects
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:projects
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:projects
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:projects
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:projects
+++launchSettings.json
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\properties\launchsettings.json
+++ProductsController.cs
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\controllers\productscontroller.cs
+++UsersController.cs
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\controllers\userscontroller.cs
+++ApplicationException.cs
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\exceptions\applicationexception.cs
+++DontAllowAccessException.cs
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\exceptions\dontallowaccessexception.cs
+++TestException.cs
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\exceptions\testexception.cs
+++MyResponse.cs
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\filters\myresponse.cs
+++SecurityFilter.cs
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\filters\securityfilter.cs
+++CustomExceptionHandlerMiddleware.cs
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\middlewares\customexceptionhandlermiddleware.cs
+++TokenHandler.cs
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\securities\tokenhandler.cs
+++UserContext.cs
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\securities\usercontext.cs
+++appsettings.Development.json
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\appsettings.development.json
+++Resource.Designer.cs
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\resource.designer.cs
+++Microsoft.AspNetCore.Analyzers
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d6896178-4e5a-4a69-b86e-3835f59b00fc}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d6896178-4e5a-4a69-b86e-3835f59b00fc}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\users\behnam\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.11\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\users\behnam\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.11\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\users\behnam\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.11\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:c:\users\behnam\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.11\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\users\behnam\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\users\behnam\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:c:\users\behnam\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:c:\users\behnam\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\users\behnam\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{d6896178-4e5a-4a69-b86e-3835f59b00fc}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.endpoint.api\microsoft.netcore.app
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\asp advance\s02\shopsln\shop.application\microsoft.netcore.app
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\microsoft.netcore.app
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:c:\asp advance\s02\shopsln\shop.unit.test\microsoft.netcore.app
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:c:\asp advance\s02\shopsln\shop.model\microsoft.netcore.app
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\microsoft.netcore.app
+i:{d6896178-4e5a-4a69-b86e-3835f59b00fc}:c:\asp advance\s02\shopsln\buildersample\microsoft.netcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.14)
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:>693
+++Microsoft.AspNetCore.Identity (2.2.0)
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:>691
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:>641
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.11)
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:>692
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:>654
+++Microsoft.EntityFrameworkCore.Design (6.0.11)
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:>689
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:>653
+++Swashbuckle.AspNetCore (6.2.3)
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:>690
+++Shop.Application
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.application\shop.application.csproj
+i:{00000000-0000-0000-0000-000000000000}:Shop.Application
+++Shop.Application.Contract
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.application.contract\shop.application.contract.csproj
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\asp advance\s02\shopsln\shop.application.contract\shop.application.contract.csproj
+i:{00000000-0000-0000-0000-000000000000}:Shop.Application.Contract
+++Shop.Model
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:c:\asp advance\s02\shopsln\shop.model\shop.model.csproj
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.model\shop.model.csproj
+i:{00000000-0000-0000-0000-000000000000}:Shop.Model
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.model\shop.model.csproj
+++Services
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\asp advance\s02\shopsln\shop.application\services\
+++Products
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\asp advance\s02\shopsln\shop.application\services\products\
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\mapping\products\
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\dtos\products\
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\iservices\products\
+++Users
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\asp advance\s02\shopsln\shop.application\services\users\
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\dtos\users\
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\iservices\users\
+++Microsoft.Extensions.Http (7.0.0)
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:>675
+++Newtonsoft.Json (13.0.2)
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:>674
+++Shop.InfraStructure
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\asp advance\s02\shopsln\shop.infrastructure\shop.infrastructure.csproj
+i:{00000000-0000-0000-0000-000000000000}:Shop.InfraStructure
+++InventoryExternalService.cs
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\asp advance\s02\shopsln\shop.application\services\products\inventoryexternalservice.cs
+++ProductAdminService.cs
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\asp advance\s02\shopsln\shop.application\services\products\productadminservice.cs
+++ProductUserService.cs
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\asp advance\s02\shopsln\shop.application\services\products\productuserservice.cs
+++UserService.cs
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\asp advance\s02\shopsln\shop.application\services\users\userservice.cs
+++Contexts
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\contexts\
+++DesignTimeContextFactory.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\contexts\designtimecontextfactory.cs
+++RoleSeedData.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\contexts\roleseeddata.cs
+++ShopContext.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\contexts\shopcontext.cs
+++IRepositories
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\irepositories\
+++Mapping
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\mapping\
+++Migrations
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\migrations\
+++Repositories
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\repositories\
+++IProductRepository.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\irepositories\iproductrepository.cs
+++IRepository.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\irepositories\irepository.cs
+++20230126121234_Init.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\migrations\20230126121234_init.cs
+++20230210120928_AddedIdentity.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\migrations\20230210120928_addedidentity.cs
+++20230216102127_AddSeedData.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\migrations\20230216102127_addseeddata.cs
+++20230223105427_AddImagePathToProduct.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\migrations\20230223105427_addimagepathtoproduct.cs
+++20230310160254_Test.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\migrations\20230310160254_test.cs
+++ShopContextModelSnapshot.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\migrations\shopcontextmodelsnapshot.cs
+++BaseRepoitory.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\repositories\baserepoitory.cs
+++ProductRepository.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\repositories\productrepository.cs
+++Microsoft.EntityFrameworkCore (6.0.11)
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:>651
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.11)
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:>652
+++Microsoft.EntityFrameworkCore.Tools (6.0.11)
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:>655
+++ProductTypeEntityConfiguration.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\mapping\products\producttypeentityconfiguration.cs
+++20230126121234_Init.Designer.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\migrations\20230126121234_init.designer.cs
+++20230210120928_AddedIdentity.Designer.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\migrations\20230210120928_addedidentity.designer.cs
+++20230216102127_AddSeedData.Designer.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\migrations\20230216102127_addseeddata.designer.cs
+++20230223105427_AddImagePathToProduct.Designer.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\migrations\20230223105427_addimagepathtoproduct.designer.cs
+++20230310160254_Test.Designer.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\migrations\20230310160254_test.designer.cs
+++Shop.Unit.Test
+i:{00000000-0000-0000-0000-000000000000}:Shop.Unit.Test
+++UnitTest1.cs
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:c:\asp advance\s02\shopsln\shop.unit.test\unittest1.cs
+++Usings.cs
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:c:\asp advance\s02\shopsln\shop.unit.test\usings.cs
+++xunit.analyzers
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:c:\users\behnam\.nuget\packages\xunit.analyzers\1.0.0\analyzers\dotnet\cs\xunit.analyzers.dll
+++xunit.analyzers.fixes
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:c:\users\behnam\.nuget\packages\xunit.analyzers\1.0.0\analyzers\dotnet\cs\xunit.analyzers.fixes.dll
+++coverlet.collector (3.1.2)
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:>636
+++Microsoft.NET.Test.Sdk (17.3.2)
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:>631
+++xunit (2.4.2)
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:>632
+++xunit.runner.visualstudio (2.4.5)
+i:{cfd22c09-5051-48a1-a820-e0eb90505e86}:>633
+++Models
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:c:\asp advance\s02\shopsln\shop.model\models\
+++IdentityModels
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:c:\asp advance\s02\shopsln\shop.model\models\identitymodels\
+++BaseEntity.cs
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:c:\asp advance\s02\shopsln\shop.model\models\baseentity.cs
+++Category.cs
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:c:\asp advance\s02\shopsln\shop.model\models\category.cs
+++Product.cs
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:c:\asp advance\s02\shopsln\shop.model\models\product.cs
+++ProductCategory.cs
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:c:\asp advance\s02\shopsln\shop.model\models\productcategory.cs
+++ProductDetail.cs
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:c:\asp advance\s02\shopsln\shop.model\models\productdetail.cs
+++Microsoft.Extensions.Identity.Stores (6.0.13)
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:>642
+++ApplicationRole.cs
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:c:\asp advance\s02\shopsln\shop.model\models\identitymodels\applicationrole.cs
+++ApplicationUser.cs
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:c:\asp advance\s02\shopsln\shop.model\models\identitymodels\applicationuser.cs
+++ApplicationUserRole.cs
+i:{1addced3-9c4c-47b6-bc26-5e5e9d407098}:c:\asp advance\s02\shopsln\shop.model\models\identitymodels\applicationuserrole.cs
+++Dtos
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\dtos\
+++IServices
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\iservices\
+++MappingConfiguration
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\mappingconfiguration\
+++Commons
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\dtos\commons\
+++Quantities
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\dtos\quantities\
+++MappingProfile.cs
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\mappingconfiguration\mappingprofile.cs
+++AutoMapper.Extensions.Microsoft.DependencyInjection (12.0.0)
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:>665
+++Microsoft.AspNetCore.Http.Features (5.0.17)
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:>664
+++ImagePathProvider.cs
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\dtos\commons\imagepathprovider.cs
+++ProductAddDto.cs
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\dtos\products\productadddto.cs
+++ProductDto.cs
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\dtos\products\productdto.cs
+++QuantityRequestDto.cs
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\dtos\quantities\quantityrequestdto.cs
+++LoginDto.cs
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\dtos\users\logindto.cs
+++RegisterDto.cs
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\dtos\users\registerdto.cs
+++IInventoryExternalService.cs
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\iservices\products\iinventoryexternalservice.cs
+++IProductAdminService.cs
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\iservices\products\iproductadminservice.cs
+++IProductUserService.cs
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\iservices\products\iproductuserservice.cs
+++ITokenHandler.cs
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\iservices\users\itokenhandler.cs
+++IUserContext.cs
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\iservices\users\iusercontext.cs
+++IUserService.cs
+i:{73bf9346-14b8-4880-a602-a413c62ac2e5}:c:\asp advance\s02\shopsln\shop.application.contract\iservices\users\iuserservice.cs
+++BuilderSample
+i:{00000000-0000-0000-0000-000000000000}:BuilderSample
+++SQLQueryBuilder.cs
+i:{d6896178-4e5a-4a69-b86e-3835f59b00fc}:c:\asp advance\s02\shopsln\buildersample\sqlquerybuilder.cs
+++NewFolder
+++UnitOfWorks
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\asp advance\s02\shopsln\shop.application\unitofworks\
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\unitofworks\
+++Interface1.cs
+++IUnitOfWork.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\unitofworks\iunitofwork.cs
+++UnitOfWork.cs
+i:{5c0022b2-1e65-4a7a-a1af-4180462699ed}:c:\asp advance\s02\shopsln\shop.infrastructure\unitofworks\unitofwork.cs
+++Autofac.Extensions.DependencyInjection (8.0.0)
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:>1404
+++Autofac.Extras.DynamicProxy (6.0.1)
+i:{d24a9337-7f49-4e26-a322-34dc9935a95c}:>1405
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:>1424
+++UnitOfWorkInterceptor.cs
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\asp advance\s02\shopsln\shop.application\unitofworks\unitofworkinterceptor.cs
+++UnitOfWordAttribute.cs
+++UnitOfWorkAttribute.cs
+i:{cf45a816-edcd-4364-aec7-388a9fba1db6}:c:\asp advance\s02\shopsln\shop.application\unitofworks\unitofwordattribute.cs

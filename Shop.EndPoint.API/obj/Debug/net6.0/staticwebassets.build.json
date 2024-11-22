@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2g8Ll1DAk8WCxJBOSleeS8rrYBBk4xkCw5M9k2uHSmI=",
+  "Source": "Shop.EndPoint.API",
+  "BasePath": "_content/Shop.EndPoint.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

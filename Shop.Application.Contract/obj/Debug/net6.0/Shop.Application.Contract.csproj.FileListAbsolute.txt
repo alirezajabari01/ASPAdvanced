@@ -1,0 +1,195 @@
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.deps.json
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\refint\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\ref\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S01\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.deps.json
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\refint\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\ref\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.deps.json
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\refint\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\ref\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.deps.json
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\refint\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\ref\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.deps.json
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\refint\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S06\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\ref\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.deps.json
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\refint\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S08\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\ref\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.deps.json
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\refint\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S09\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\ref\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.deps.json
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.pdb
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.AssemblyReference.cache
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfoInputs.cache
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfo.cs
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CoreCompileInputs.cache
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CopyComplete
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\refint\Shop.Application.Contract.dll
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.pdb
+C:\BootcampGenius\Web2\Web2S11\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\ref\Shop.Application.Contract.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\refint\Shop.Application.Contract.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.pdb
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.deps.json
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.dll
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.pdb
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.AssemblyReference.cache
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfoInputs.cache
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfo.cs
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CoreCompileInputs.cache
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CopyComplete
+C:\ASP Advanced\S01\Geniuses Last Session Project\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\ref\Shop.Application.Contract.dll
+C:\ASP Advance\S02\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.deps.json
+C:\ASP Advance\S02\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\ASP Advance\S02\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\ASP Advance\S02\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.dll
+C:\ASP Advance\S02\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.pdb
+C:\ASP Advance\S02\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.AssemblyReference.cache
+C:\ASP Advance\S02\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP Advance\S02\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfoInputs.cache
+C:\ASP Advance\S02\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfo.cs
+C:\ASP Advance\S02\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CoreCompileInputs.cache
+C:\ASP Advance\S02\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CopyComplete
+C:\ASP Advance\S02\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.dll
+C:\ASP Advance\S02\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\refint\Shop.Application.Contract.dll
+C:\ASP Advance\S02\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.pdb
+C:\ASP Advance\S02\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\ref\Shop.Application.Contract.dll
+C:\ASP Advance\S03\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.deps.json
+C:\ASP Advance\S03\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\ASP Advance\S03\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\ASP Advance\S03\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.dll
+C:\ASP Advance\S03\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.pdb
+C:\ASP Advance\S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.AssemblyReference.cache
+C:\ASP Advance\S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP Advance\S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfoInputs.cache
+C:\ASP Advance\S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfo.cs
+C:\ASP Advance\S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CoreCompileInputs.cache
+C:\ASP Advance\S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CopyComplete
+C:\ASP Advance\S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.dll
+C:\ASP Advance\S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\refint\Shop.Application.Contract.dll
+C:\ASP Advance\S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.pdb
+C:\ASP Advance\S03\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\ref\Shop.Application.Contract.dll
+C:\ASP Advance\S04\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.deps.json
+C:\ASP Advance\S04\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\ASP Advance\S04\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\ASP Advance\S04\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.dll
+C:\ASP Advance\S04\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.pdb
+C:\ASP Advance\S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.AssemblyReference.cache
+C:\ASP Advance\S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP Advance\S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfoInputs.cache
+C:\ASP Advance\S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfo.cs
+C:\ASP Advance\S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CoreCompileInputs.cache
+C:\ASP Advance\S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CopyComplete
+C:\ASP Advance\S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.dll
+C:\ASP Advance\S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\refint\Shop.Application.Contract.dll
+C:\ASP Advance\S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.pdb
+C:\ASP Advance\S04\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\ref\Shop.Application.Contract.dll
+C:\ASP Advance\S05\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.deps.json
+C:\ASP Advance\S05\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.dll
+C:\ASP Advance\S05\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Application.Contract.pdb
+C:\ASP Advance\S05\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.dll
+C:\ASP Advance\S05\ShopSln\Shop.Application.Contract\bin\Debug\net6.0\Shop.Model.pdb
+C:\ASP Advance\S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.AssemblyReference.cache
+C:\ASP Advance\S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\ASP Advance\S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfoInputs.cache
+C:\ASP Advance\S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.AssemblyInfo.cs
+C:\ASP Advance\S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CoreCompileInputs.cache
+C:\ASP Advance\S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.csproj.CopyComplete
+C:\ASP Advance\S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.dll
+C:\ASP Advance\S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\refint\Shop.Application.Contract.dll
+C:\ASP Advance\S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\Shop.Application.Contract.pdb
+C:\ASP Advance\S05\ShopSln\Shop.Application.Contract\obj\Debug\net6.0\ref\Shop.Application.Contract.dll
